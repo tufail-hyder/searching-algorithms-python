@@ -1,2 +1,2 @@
 # searching-algorithms-python
-This repo contains BFS,DFS etc  implementations in Python.
+This repository contains informed and uninformed implementations in Python.
